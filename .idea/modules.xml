@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/mypythonApp.iml" filepath="$PROJECT_DIR$/.idea/mypythonApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../newShosanProj/.idea/newShosanProj.iml" filepath="$PROJECT_DIR$/../newShosanProj/.idea/newShosanProj.iml" />
+    </modules>
+  </component>
+</project>
