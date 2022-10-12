@@ -7,7 +7,7 @@ window.geometry("400x250")
 
 # Function----------------
 def phrase_gen():
-    phrases = ["Welcome ", "This is your first time here, ", "Konnichiwa "]
+    phrases = ["Welcome ", "This is your first time here, ", "Konichiwa "]
     name = str(entry1.get())
     return phrases[random.randint(0, 2)] + name
 
